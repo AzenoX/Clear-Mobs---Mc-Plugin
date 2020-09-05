@@ -1,0 +1,13 @@
+name: ClearMobs
+author: AzenoX
+main: fr.azenox.ClearMobs.ClearMobs
+version: 0.1
+commands:
+  clearmobs:
+    description: Clear Mobs
+    usage: /clearmobs <entity>
+    aliases: [cm]
+permissions:
+  clearmobs.use:
+    description: Clear Mobs
+    default: op
